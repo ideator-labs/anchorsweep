@@ -1,0 +1,11 @@
+# name sha256 url
+curl-cacert-2026-09-25.pem a41b5d356aea97a529fe27e0f7316d2f9d946d75927476cf9cf1b90637d00505 https://curl.se/ca/cacert-2026-09-25.pem
+curl-cacert-2026-10-20.pem 796f1389bfea13c0ed78f663b765baaff54a508e5483786bd6ece73c5e3e3cbe https://curl.se/ca/cacert-2026-10-20.pem
+certifi-2026.7.22-py3-none-any.whl 62f22742b58a1a33014a2b6b706588a8d7e2a88ae7bd1a6ebe8c992928483775 https://files.pythonhosted.org/packages/0b/a7/71ac2cff56fec219ed242bb11b8efb69fcc4bec75db06fb7bfe35de520e6/certifi-2026.7.22-py3-none-any.whl
+certifi-2026.10.19-py3-none-any.whl 42d35340cc5b9ba78e818ddbff0c5b1c2b779de448a340fd1b989f5fa8670e1b https://files.pythonhosted.org/packages/c4/51/29046e48f693c54e5b7412216d447a1d8362c9653148d98c02cdf65fa733/certifi-2026.10.19-py3-none-any.whl
+node-v22.23.3-linux-x64.tar.xz df450af89261115ef9f9e3830c3eeb2cc9213b63c720b1af623cb5dcbe2e02de https://nodejs.org/dist/v22.23.3/node-v22.23.3-linux-x64.tar.xz
+node-v22.23.4-linux-x64.tar.xz 1805bcd35e6815559bd2eb97db438d3fdb0eb3a5e6a977b7c1badca76337e9ce https://nodejs.org/dist/v22.23.4/node-v22.23.4-linux-x64.tar.xz
+deno-2.9.7-x86_64-unknown-linux-gnu.zip c6527f24f4b16031d3ae4fa9f658d5f11534c8d84ce7dc8502420280919c3490 https://github.com/denoland/deno/releases/download/v2.9.7/deno-x86_64-unknown-linux-gnu.zip
+deno-2.9.8-x86_64-unknown-linux-gnu.zip e890975bc2549807bbcc0b584ffafda72cc7c93349dd99c80483dd784f6c4609 https://github.com/denoland/deno/releases/download/v2.9.8/deno-x86_64-unknown-linux-gnu.zip
+alpine-minirootfs-3.22.6-x86_64.tar.gz 27694aaa55fd7a9e3ef596e0ad4eb66802308bb20172b17030cd5f4d8ae9bac2 https://dl-cdn.alpinelinux.org/alpine/v3.22/releases/x86_64/alpine-minirootfs-3.22.6-x86_64.tar.gz
+alpine-minirootfs-3.22.7-x86_64.tar.gz 57e364a241bab0699cd8a760c0fd7b270e9cbcbd3cee822cb2b07ca6d925c16c https://dl-cdn.alpinelinux.org/alpine/v3.22/releases/x86_64/alpine-minirootfs-3.22.7-x86_64.tar.gz
